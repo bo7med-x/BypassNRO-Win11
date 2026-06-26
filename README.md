@@ -20,7 +20,7 @@ Bypasses the internet connection requirement during Windows 11 OOBE setup, allow
 ## Build
 
 ```cmd
-pyinstaller --onefile --noconsole --version-file "info.txt" "BypassNRO.py" -i "icon.ico"
+pyinstaller --onefile --noconsole --version-file "BypassNRO.py" -i "icon.ico"
 ```
 
 ---
